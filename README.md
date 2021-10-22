@@ -8,7 +8,7 @@ This project demonstrates how to write and deploy a smart contract to the blockc
 This is a website where anyone can:
 - Connect their blockchain wallet
 - Wave and Send me a message to stand a chance to win ETH
-- if selected, 0.01 ETH will sent to your wallet
+- if selected, 0.01 ETH will sent to their wallet
 - View list of save messages on the blockchain
 
 # Screenshot
